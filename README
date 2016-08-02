@@ -1,0 +1,2 @@
+Funcția readadc pentru citirea datelor de la sheild a fost luată dintr-un tutorial de la cursul de robotica organizat UTCN.
+Modul de lucru cu thread-urile a fost inspirat de aici: http://stackoverflow.com/questions/6783194/background-thread-with-qthread-in-pyqt
